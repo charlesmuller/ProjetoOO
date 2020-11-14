@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GestaoDefeito
+comment1.params=
+comment1.target=GestaoDefeito()
+comment2.params=
+comment2.target=void\ CadastrarDefeito()
+comment3.params=
+comment3.target=void\ EditarDefeito()
+comment4.params=
+comment4.target=void\ ListarDefeito()
+numComments=5

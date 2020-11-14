@@ -1,0 +1,83 @@
++-------------------+
+| PROJETO QUALIDADE |
++-------------------+
+PROJETOS ATIVOS:
+[1] - Projeto Aplicativo Padaria
+[2] - Projeto Site Joãozinho
+[3] - Projeto Pecuária do Pedrinho
+[0] - Adicionar Projeto
+
++------------------------+
+| PROJETO SITE JOÃOZINHO |
++------------------------+
+[1] - Gestão de Testes
+[2] - Gestão de Defeitos
+[3] - Editar Projeto
+[4] - Excluir Projeto
+
++-------------------+
+| GESTÃO DE TESTES  |
++-------------------+
+[1] - Validar Menu Compras
+[2] - Validar Menu Carrinho
+[3] - Validar Layout
+[4]...[999]
+[0] - Adicionar Novo Caso de Teste
+
++-----------------------+
+| VALIDAR MENU CARRINHO |
++-----------------------+
+Resumo: Validar botões do menu lateral, e se todos botões funcionam conforme o esperado.
+
+Passos:
+1 - Acessar o site;
+2 - Clicar no menu carrinho;
+3 - Validar como o sistem se comporta ao adicionar itens.
+
+Resultado: sistema deverá adicionar os itens, e calcular o valor.
+
+Prioridade: 1.
+
+Gravidade: 1.
+
+Executor: Tester Maria.
+
+Projeto: Projeto Site Joãozinho.
+
+Status: Executado.
+
+[1] - Editar
+[2] - Excluir
+[3] - Voltar
+
++--------------------+
+| GESTÃO DE DEFEITOS |
++--------------------+
+[1] - Botão 'X' não funciona
+[2] - Layout apresenta erro
+[3] - Campo 'telefone' aceita letras
+[4]...[999]
+[0] - Adicionar Novo Defeito
+
++------------------------+
+| BOTÃO 'X' NÃO FUNCIONA |
++------------------------+
+Resumo: Verificamos que ao tentar clicar no botão 'X' o sistema não invoca nenhuma funcionalidade.
+
+Passos:
+1 - Acessar o site;
+2 - Clicar no menu superior;
+3 - Clicar no botão 'X';
+4 - Verificar caso descrito.
+
+Prioridade: 1.
+
+Gravidade: 1.
+
+Caso de Teste: Validar menu 'X' 
+
+Status: Em análise;
+
+[1] - Editar
+[2] - Excluir
+[3] - Voltar
